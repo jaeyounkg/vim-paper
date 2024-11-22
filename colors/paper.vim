@@ -130,7 +130,7 @@ Hi ColorColumn NONE lbackground NONE
 Hi Comment grey NONE NONE
 Hi Conceal NONE NONE NONE
 Hi Constant black NONE NONE
-Hi Cursor NONE grey NONE
+Hi Cursor NONE dgrey NONE
 Hi CursorLine NONE lbackground NONE
 Hi CursorLineNR black NONE bold
 Hi Directory purple NONE NONE
