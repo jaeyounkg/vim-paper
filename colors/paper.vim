@@ -130,7 +130,7 @@ Hi ColorColumn NONE lbackground NONE
 Hi Comment grey NONE NONE
 Hi Conceal NONE NONE NONE
 Hi Constant black NONE NONE
-Hi Cursor NONE dgrey NONE
+Hi Cursor NONE lgrey1 NONE
 Hi CursorLine NONE lbackground NONE
 Hi CursorLineNR black NONE bold
 Hi Directory purple NONE NONE
@@ -144,7 +144,7 @@ Hi Macro orange NONE NONE
 Hi MatchParen NONE NONE bold
 Hi MoreMsg black NONE NONE
 Hi NonText background NONE NONE
-Hi Normal black background bold
+Hi Normal black background NONE
 Hi NormalFloat black background NONE
 Hi Bold black NONE bold
 Hi Number blue NONE NONE
