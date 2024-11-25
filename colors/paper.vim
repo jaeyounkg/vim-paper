@@ -144,7 +144,7 @@ Hi Macro orange NONE NONE
 Hi MatchParen NONE NONE bold
 Hi MoreMsg black NONE NONE
 Hi NonText background NONE NONE
-Hi Normal black background NONE
+Hi Normal black background bold
 Hi NormalFloat black background NONE
 Hi Bold black NONE bold
 Hi Number blue NONE NONE
